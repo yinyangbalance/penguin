@@ -1,5 +1,5 @@
-<h1 align="center">:whale2: Orca</h1>
-<div align="center">A free and open-source Roblox script hub</div>
+<h1 align="center">:penguin: Penguin</h1>
+<div align="center">A free and open-source Roblox script hub Forked from richie's orca</div>
 <br>
 <div align="center">
 	<a href="https://github.com/richie0866/orca/actions"><img src="https://github.com/richie0866/orca/actions/workflows/eslint.yaml/badge.svg" alt="ESLint Status" /></a>
@@ -11,9 +11,9 @@
 
 **Orca** is a **general-purpose** Roblox script hub designed to make convenient tasks **easy** and **satisfying**.
 
-Use many different **action cards** on the [**Home**](https://github.com/richie0866/orca#house-home) and [**Apps**](https://github.com/richie0866/orca#iphone-apps) page, or check out what we have featured on the [**Scripts**](https://github.com/richie0866/orca#newspaper-scripts) page.
 
-Press `K` to open or close Orca. For the best experience, a 1080p monitor or above is recommended!
+
+Press `K` to open or close Pengiun. For the best experience, a 1080p monitor or above/below is recommended!
 
 &nbsp;
 
